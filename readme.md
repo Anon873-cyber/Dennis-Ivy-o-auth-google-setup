@@ -51,11 +51,11 @@ project-folder/
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/your-repo-name.git
+https://github.com/Anon873-cyber/Dennis-Ivy-o-auth-google-setup/
+```
+Dennis-Ivy-o-auth-google-setup
 ```
 
-```
-cd your-repo-name
 ```
 
 ---
@@ -142,4 +142,4 @@ This project is open source
 
 ## 👨‍💻 Author
 
-Dennis Ivy Created for learning Appwrite and OAuth authentication.
+Dennis Ivy from appwrite docs 
